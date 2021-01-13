@@ -1,0 +1,22 @@
+<section class="admin-products-index">
+    <div>
+
+      <div class="well">
+        <%= link_to '+ New Category', [:new, :admin, :category], class: 'btn btn-info' %>
+      </div>
+
+      <%= @categories.inspect %>
+
+      <table>
+          <thead>
+            <tr>
+              <th>Categories</th>
+            </tr>
+          </thead>
+        <tbody>
+          <%= render @categories %>
+        </tbody>
+      </table>
+
+    </div>
+</section>
