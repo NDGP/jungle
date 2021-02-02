@@ -25,3 +25,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+!["Jungle Home Screen"](https://github.com/NDGP/jungle/blob/master/docs/Jungle%20Home%20Page.png)
+
+!["Jungle Cart"](https://github.com/NDGP/jungle/blob/master/docs/Jungle%20Cart.png)
+
+!["Using Stripe"](https://github.com/NDGP/jungle/blob/master/docs/Using%20Stripe%20.png)
+
